@@ -6,3 +6,5 @@ edX Course URL: https://courses.edx.org/courses/course-v1:BerkeleyX+Data8.1x+1T2
 Link to book used in the course: https://www.inferentialthinking.com/
 
 PDF version of the course book: https://github.com/data-8/textbook/blob/gh-pages/book.pdf
+
+Original Course website along with latest lecture videos: http://data8.org/sp18/
