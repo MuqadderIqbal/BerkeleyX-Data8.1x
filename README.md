@@ -1,4 +1,6 @@
-# BerkeleyX-Data8.1x
+# BerkeleyX-Data8.1x : Computational Thinking with Python
+
+Course#1 of UC Berkeley's Foundations of Data Science certificate program on edX
 Git repo for UC Berkeley's Data8.1x Foundations of Data Science: Computational Thinking with Python course on edX. 
 
 edX Course URL: https://courses.edx.org/courses/course-v1:BerkeleyX+Data8.1x+1T2018/course/
